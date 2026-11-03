@@ -1,0 +1,4 @@
+# The parser and the solver use the standard library only.
+# These are needed for the chart and the tests.
+matplotlib>=3.5
+pytest>=7.0
